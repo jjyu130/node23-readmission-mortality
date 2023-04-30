@@ -1,4 +1,4 @@
-FIPS_code,Area_name,Population,PopDensity
+FIPS_code,Area_name,Population,PopDen
 161526,Autauga County,55200,35.85341899
 161527,Baldwin County,208107,50.54150356
 161528,Barbour County,25782,11.24798121
@@ -1801,7 +1801,7 @@ FIPS_code,Area_name,Population,PopDensity
 929117,Colfax County,12353,1.269172936
 933053,Curry County,50199,13.79056247
 933054,De Baca County,2060,0.342373576
-929109,Doña Ana County,215338,21.83262512
+929109,DoÃ±a Ana County,215338,21.83262512
 936829,Eddy County,57437,5.309932336
 915980,Grant County,28061,2.735142715
 929111,Guadalupe County,4382,0.55842484
