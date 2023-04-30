@@ -1,4 +1,4 @@
-FIPS_code,Area_name,State,Population,Density
+FIPS_code,Area_name,State,Population,PopDensity
 1001,Autauga County,AL,55200,35.85341899
 1003,Baldwin County,AL,208107,50.54150356
 1005,Barbour County,AL,25782,11.24798121
@@ -1704,7 +1704,7 @@ FIPS_code,Area_name,State,Population,Density
 35007,Colfax County,NM,12353,1.269172936
 35009,Curry County,NM,50199,13.79056247
 35011,De Baca County,NM,2060,0.342373576
-35013,Doña Ana County,NM,215338,21.83262512
+35013,DoÃ±a Ana County,NM,215338,21.83262512
 35015,Eddy County,NM,57437,5.309932336
 35017,Grant County,NM,28061,2.735142715
 35019,Guadalupe County,NM,4382,0.55842484
