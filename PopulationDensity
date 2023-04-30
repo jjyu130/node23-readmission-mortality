@@ -1,4 +1,4 @@
-FIPS_code,State,NAME,B01001_001E,B01001_calc_PopDensity
+FIPS_code,State,county_name,Population,PopulationDensity
 1245666,SC,Abbeville County,24657,19.37240492
 1480091,VA,Accomack County,32742,28.13596811
 395066,ID,Ada County,446052,163.7075373
