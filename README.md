@@ -7,4 +7,4 @@ How to explore:
 3. To open as .html file, open the "hospitalReadmissionMortality.html" file, download the raw file, and open in browser. (for visual instructions, open the link https://docs.google.com/document/d/105xdfUzu7zDDBmlIarz3tqMg7TYJK3NICfvox_sKf64/edit?usp=sharing)
 4. To open as .ipynb file, open the "hospitalReadmissionMortality.ipynb" file. In the preview, click on the "Open in Colab" to view the Jupyter Notebook in Google Colab. Then, select "Runtime" at the top. In the dropdown menu, select "Run All". Then, view the notebook.
 5. To look into the data sets used, open the data sets folder and select the designated data set.
-6. To look into the final Google presentation, open this link: https://docs.google.com/presentation/d/1S75k5PrpU9gp5JUgZ47Ej0_lRM_gdL3rK5BYu7LQJ80/view?usp=sharing
+6. To look into the final Google presentation, open this link: https://docs.google.com/presentation/d/1ARIPWo2GgMASC4jMN6NjqGH1mG9tmXw8GNkiCvNelk4/view?usp=sharing
